@@ -1,25 +1,33 @@
 # USER STORY
 ![Screen Shot 2022-07-03 at 4 25 32 AM](https://user-images.githubusercontent.com/105219025/177031620-4a29f7ad-2dc4-45b0-875f-50b2c88e8b22.png)
+![Screen Shot 2022-07-03 at 4 25 32 AM](https://user-images.githubusercontent.com/105219025/177031620-4a29f7ad-2dc4-45b0-875f-50b2c88e8b22.png)
 ## Home Page:
 ![Screen Shot 2022-07-03 at 1 15 18 AM](https://user-images.githubusercontent.com/105219025/177026143-ca5afdaf-0861-4e13-bc01-ef26e85d3350.png)
 
-![Screen Shot 2022-07-03 at 4 25 32 AM](https://user-images.githubusercontent.com/105219025/177031620-4a29f7ad-2dc4-45b0-875f-50b2c88e8b22.png)
-## History Page
+## Login Form
 ![Screen Shot 2022-07-03 at 1 16 27 AM](https://user-images.githubusercontent.com/105219025/177026145-20bd7643-2ef7-4bd5-8385-e0a8044e6145.png)
 
-
+## Sign-Up Form
 ![Screen Shot 2022-07-03 at 1 16 54 AM](https://user-images.githubusercontent.com/105219025/177026146-9f2f1130-2f7c-4a17-9162-5b02f0e561dc.png)
+
+## Search Page
 ![Screen Shot 2022-07-03 at 1 18 48 AM](https://user-images.githubusercontent.com/105219025/177026147-2e8f8b86-de75-4288-ab45-cbb49bddcf24.png)
+
+## Purchase Form
 ![Screen Shot 2022-07-03 at 1 19 12 AM](https://user-images.githubusercontent.com/105219025/177026148-b66ea6d5-5d23-4032-9a91-b973d20dacd1.png)
+
+## Profile Page
 ![Screen Shot 2022-07-03 at 1 20 25 AM](https://user-images.githubusercontent.com/105219025/177026149-6a5d0e3f-dbf9-4d34-af4d-ccbc588bd820.png)
+
+## About us Page
 ![Screen Shot 2022-07-03 at 1 20 50 AM](https://user-images.githubusercontent.com/105219025/177026150-a1c21cac-0b0a-42a4-83fd-44dad8cb683d.png)
 
 
 # Travel Resource Application
 
-Let's get healthy with this fun Interactive Calorie Tracker, courtesy of General Assembly SEIR59 Student: Tiras P. Jordan.
+This Application is a provider of hotel accommodation worldwide, offering booking services through its own network of localised websites.
 
-Getting healthy is no small undertaking, and having the tools and resources to accomplish your Goals is essential to consistently pursuing them. MyHealth is here to serve as that resource and tool, here you can track your caloric intake, from day to day consumption, so that you may accurately budget your intake.
+This Application gives travellers one of the widest selections of accommodation on the net, including both independent and major chain hotels as well as self-catering in over hundreds of thousands properties worldwide. The company offers a one-stop shopping source for hotel pricing, amenities and availability.
 
 ## MERN Stack | Technologies Used
 ![image](https://user-images.githubusercontent.com/105219025/177025448-327b43e9-5800-4aea-8d25-223730f89267.png)
