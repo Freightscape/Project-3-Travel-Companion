@@ -1,5 +1,6 @@
 # USER STORY
-![Screen Shot 2022-07-03 at 4 25 32 AM](https://user-images.githubusercontent.com/105219025/177031620-4a29f7ad-2dc4-45b0-875f-50b2c88e8b22.png)
+![Screen Shot 2022-07-03 at 4 52 40 AM](https://user-images.githubusercontent.com/105219025/177032521-1b8ec1cb-dde9-47d4-adea-87849c00dda0.png)
+![Screen Shot 2022-07-03 at 4 52 40 AM](https://user-images.githubusercontent.com/105219025/177032521-1b8ec1cb-dde9-47d4-adea-87849c00dda0.png)
 ![Screen Shot 2022-07-03 at 4 25 32 AM](https://user-images.githubusercontent.com/105219025/177031620-4a29f7ad-2dc4-45b0-875f-50b2c88e8b22.png)
 ## Home Page:
 ![Screen Shot 2022-07-03 at 1 15 18 AM](https://user-images.githubusercontent.com/105219025/177026143-ca5afdaf-0861-4e13-bc01-ef26e85d3350.png)
