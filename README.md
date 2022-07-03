@@ -27,6 +27,21 @@ Users will be able to sign-up, and login to the HealthBuddy Network and connect 
 - Calories Burned by Activities
 - BMI Body Mass Calculator
 
+Route Table:
+
+    GET route                       # •GET /hotels show hotels
+    GET route                       # •GET /hotels/:id. show hotel
+    GET route                       # •GET /hotels/login Login page
+    GET route                       # •GET /hotels/signup SignUp page
+    POST route                      # •POST /hotels/signup Create Sign Up
+    POST route                      # •POST /hotels/login CreateLogin
+    GET route                       # •GET /user/myaccount Account
+    POST route                      # •POST /hotels/checkout Create Order
+    GET route                       # •GET /hotels/checkout  Show Checkout Page
+
+
+
+
 ## Technologies Used
 
 **- HTML**
