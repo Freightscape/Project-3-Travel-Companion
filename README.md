@@ -1,7 +1,13 @@
 # USER STORY
-![Screen Shot 2022-07-03 at 4 11 16 AM](https://user-images.githubusercontent.com/105219025/177031181-98c3c09c-3884-4da3-839e-e3a1c3a02689.png)
+![Screen Shot 2022-07-03 at 4 25 32 AM](https://user-images.githubusercontent.com/105219025/177031620-4a29f7ad-2dc4-45b0-875f-50b2c88e8b22.png)
+## Home Page:
 ![Screen Shot 2022-07-03 at 1 15 18 AM](https://user-images.githubusercontent.com/105219025/177026143-ca5afdaf-0861-4e13-bc01-ef26e85d3350.png)
+
+![Screen Shot 2022-07-03 at 4 25 32 AM](https://user-images.githubusercontent.com/105219025/177031620-4a29f7ad-2dc4-45b0-875f-50b2c88e8b22.png)
+## History Page
 ![Screen Shot 2022-07-03 at 1 16 27 AM](https://user-images.githubusercontent.com/105219025/177026145-20bd7643-2ef7-4bd5-8385-e0a8044e6145.png)
+
+
 ![Screen Shot 2022-07-03 at 1 16 54 AM](https://user-images.githubusercontent.com/105219025/177026146-9f2f1130-2f7c-4a17-9162-5b02f0e561dc.png)
 ![Screen Shot 2022-07-03 at 1 18 48 AM](https://user-images.githubusercontent.com/105219025/177026147-2e8f8b86-de75-4288-ab45-cbb49bddcf24.png)
 ![Screen Shot 2022-07-03 at 1 19 12 AM](https://user-images.githubusercontent.com/105219025/177026148-b66ea6d5-5d23-4032-9a91-b973d20dacd1.png)
@@ -58,7 +64,7 @@ Route Table:
 ## Entity Relationship Diagram
 
 **Image Flow Models**
-![Image 6-17-22 at 10 42 AM](https://user-images.githubusercontent.com/105219025/174321060-1cc6e5e1-8ca3-4dcc-bc90-77785c7b2e2b.jpeg)![Image 6-17-22 at 10 40 AM](https://user-images.githubusercontent.com/105219025/174321098-2b763b1e-d975-4a20-849f-3352f66b358f.jpeg)
+
 ![image](https://user-images.githubusercontent.com/105219025/174331007-16cbe68e-cfe8-4aaa-b836-2ceb837bde91.gif)
 
 (Add Accordion):
